@@ -1,1 +1,1 @@
-# Simple-Stopwatch  
+# Simple-Stopwatch project using HTML, CSS and Javascript.  
